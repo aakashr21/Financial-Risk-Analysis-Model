@@ -33,7 +33,7 @@ ConfusionMatrixDisplay
 * default rate for females are just ~7% which is safer and lesser than male
 
 **NAME_TYPE_SUITE**
-* unacompanied people had tanke most of the loans and the default rate is ~8.5% which is still okay
+* unacompanied people had taken most of the loans and the default rate is ~8.5% which is still okay
 
 **NAME_INCOME_TYPE**
 * the safest segments are working, commercial associates and pensioners
@@ -64,7 +64,7 @@ ConfusionMatrixDisplay
 
 ## Bivariate analysis
 * AMT_CREDIT and AMT_GOODS_PRICE are linearly corelated, if the AMT_CREDIT increases the defaulters are decreasing
-* people having income less than or equals to 1 ml, are more like to take loans out of which who are taking loan of less than 1.5 million, coudl turn out to be defaulters. we can target income below 1 million and loan maount greater than 1.5 million
+* people having income less than or equals to 1 ml, are more like to take loans out of which who are taking loan of less than 1.5 million, could turn out to be defaulters. we can target income below 1 million and loan amount greater than 1.5 million
 * people having children 1 to less than 5 are safer to give the loan
 * People who can pay the annuity of 100K are more like to get the loan and that's upto less than 2ml (safer segment)
 
